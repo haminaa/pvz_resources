@@ -1,6 +1,6 @@
 {
     "model": {
       "type": "minecraft:model",
-      "model": "pvz:plant_test"
+      "model": "pvz:item/plant_test"
     }
   }
