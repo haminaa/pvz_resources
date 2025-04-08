@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [32, 32],
 	"textures": {
-		"0": "warfare:tent",
-		"particle": "warfare:tent"
+		"0": "pvz:tent",
+		"particle": "pvz:tent"
 	},
 	"elements": [
 		{

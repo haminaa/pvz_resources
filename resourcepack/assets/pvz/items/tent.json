@@ -1,6 +1,6 @@
 {
     "model": {
       "type": "minecraft:model",
-      "model": "warfare:tent"
+      "model": "pvz:tent"
     }
   }
