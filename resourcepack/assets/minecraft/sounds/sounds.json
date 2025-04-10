@@ -1,5 +1,5 @@
 {
-    "pvz.lawnmower": {
-      "sounds": ["pvz/lawnmower"]
+    "custom.lawnmower": {
+      "sounds": ["custom/lawnmower"]
     }
 }
