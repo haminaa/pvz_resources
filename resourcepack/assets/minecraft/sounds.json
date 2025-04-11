@@ -518,5 +518,8 @@
   },
   "custom.pvz_theme": {
     "sounds": ["custom/pvz_theme"]
+  },
+  "custom.pvz_day": {
+    "sounds": ["custom/pvz_day"]
   }
 }
