@@ -515,5 +515,8 @@
   },
   "custom.zombie_falling_2": {
     "sounds": ["custom/zombie_falling_2"]
+  },
+  "custom.pvz_theme": {
+    "sounds": ["custom/pvz_theme"]
   }
 }
