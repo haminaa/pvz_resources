@@ -1,5 +1,6 @@
 {
   "entity.zombie.ambient": {
+    "replace": true,
     "sounds": [
       "custom/groan",
       "custom/groan2",
