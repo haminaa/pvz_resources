@@ -1,5 +1,5 @@
 {
-    "custom.lawnmower": {
-      "sounds": ["custom/lawnmower"]
+    "custom.groan": {
+      "sounds": ["custom/groan"]
     }
 }
