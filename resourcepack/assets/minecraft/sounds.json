@@ -1,4 +1,14 @@
 {
+  "entity.zombie.ambient": {
+    "sounds": [
+      "custom/groan",
+      "custom/groan2",
+      "custom/groan3",
+      "custom/groan4",
+      "custom/groan5",
+      "custom/groan6"
+    ]
+  },
   "custom.achievement": {
     "sounds": ["custom/achievement"]
   },
