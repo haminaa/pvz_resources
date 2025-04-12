@@ -10,6 +10,10 @@
       "custom/groan6"
     ]
   },
+  "music.game": {
+    "replace": true,
+    "sounds": []
+  },
   "entity.zombie.hurt": {
     "replace": true,
     "sounds": []
