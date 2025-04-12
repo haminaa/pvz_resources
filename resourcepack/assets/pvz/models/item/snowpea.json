@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [64, 64],
 	"textures": {
-		"0": "block/snowpea",
-		"particle": "block/snowpea"
+		"0": "pvz:item/snowpea",
+		"particle": "pvz:item/snowpea"
 	},
 	"elements": [
 		{
